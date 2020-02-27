@@ -59,7 +59,7 @@ More information at [allforonebusiness.org](http://www.allforonebusiness.org) Vi
 <tr><td>2-1000</td><td>20% (200 AFO)</td><td>80% (800 AFO)</td><td>N/A</td></tr>
 </table>
 
-### PoS Rewards Breakdown
+### PoS Rewards Breakdown  ---
 
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes & Stakers</th><th>Budget</th>
